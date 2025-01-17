@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 0: Getting Real"
 ---
 
-**Due:** Friday, Feb 2nd by 11 pm
+**Due:** Monday, Feb 3rd by 11 pm
 
 This is an **Individual** assignment.
 
