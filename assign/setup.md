@@ -119,11 +119,52 @@ under "Releases" on the right-hand side of the page in order to
 get access to the toolchain download files.
 
 <div class='admonition info'>
-  <div class='title'>Info</div>
+  <div class='title'>Required shared libraries</div>
   <div class='content' markdown='1'>
 On Linux, the binaries in the prebuilt toolchain may require shared libraries
-that you don't have installed. On Ubuntu 22.04, you can install them with the command
+that you don't have installed.
+
+**On Ubuntu 22.04**, you can install them with the command
+
 <div class='shell'><pre>sudo apt install libncurses5 libpython2.7</pre></div>
+
+**On Ubuntu 24.04**, neither ncurses5 nor Python 2.7 are available via the standard
+package repository. You should be able to install them manually, however.
+
+For ncurses5, try the following:
+
+<div class='shell'><pre>wget http://archive.ubuntu.com/ubuntu/pool/universe/n/ncurses/libtinfo5_6.3-2_amd64.deb
+sudo dpkg -i libtinfo5_6.3-2_amd64.deb
+wget http://archive.ubuntu.com/ubuntu/pool/universe/n/ncurses/libncurses5_6.3-2_amd64.deb
+sudo dpkg -i libncurses5_6.3-2_amd64.deb</pre></div>
+
+For Python 2.7, building from source may be the easiest option:
+
+<div class='shell'><pre>cd $SOME_DIR
+wget https://www.python.org/ftp/python/2.7.18/Python-2.7.18.tgz
+tar xzf Python-2.7.18.tgz
+cd Python-2.7.18
+./configure --enable-optimizations --enable-shared --enable-unicode=ucs4
+make
+sudo make altinstall</pre></div>
+
+Note that `$SOME_DIR` should be a scratch directory that you can
+use to extract and build the Python 2.7 source code.
+(You can delete it after you have built and installed Python 2.7.)
+Also note that a bunch of tests will likely fail during the `make` command,
+but you can ignore these failures.
+
+The above instructions will install Python 2.7 into `/usr/local`. So, when
+running toolchain binaries that require the Python 2.7 shared library,
+you will need to set the `LD_LIBRARY_PATH` environment variable:
+
+<div class='shell'>export LD_LIBRARY_PATH=/usr/local/lib</div>
+
+**For MacOS**, the following Stack Overflow page explains how to install
+Python 2.7: <https://stackoverflow.com/questions/71739870>
+
+Another approach is to use `pyenv` via Homebrew: <https://stackoverflow.com/questions/68935932/>
+
   </div>
 </div>
 
