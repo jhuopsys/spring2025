@@ -29,6 +29,8 @@ Course assistants:
 
 * Sambhav Chordia <schordi1@jhu.edu>
 * Nithish Krishna Shreenevasan <nshreen1@jhu.edu>
+* Prajakta Murlidhar Shevakari <pshevak1@jh.edu>
+* Anushka Singh <asing155@jh.edu>
 
 ## Meeting
 
