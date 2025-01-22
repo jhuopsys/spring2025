@@ -230,7 +230,7 @@ for Pintos. You can install QEMU with all supported architectures
       XQuartz might prompt you to upgrade to 2.8.x, please do not upgrade
       it!
     - For Ubuntu,
-      `sudo apt-get install libx11-dev libxrandr-dev`
+      `sudo apt-get install libx11-dev libxrandr-dev libncurses-dev`
 
     Spring 2024 note: this script does appear to work correctly and should
     yield you a functioning installation of Bochs.
