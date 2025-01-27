@@ -12,6 +12,12 @@ Acknowledgment: this assignment was developed by
 for the [Fall 2022 offering of OS](https://www.cs.jhu.edu/~huang/cs318/fall22/),
 and is used by permission.
 
+*Update 1/27*: The following screencast video shows how to get started
+on Assignment 0 using your ugrad account. (The content should also
+be applicable for grad accounts as well.)
+
+<https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=684a34b1-410a-4633-a340-b27200d5b442>
+
 # Assignment 0: Getting Real
 
 This assignment is set to prepare you for the later Pintos projects. It
