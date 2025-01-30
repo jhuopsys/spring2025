@@ -38,7 +38,7 @@ Feb 12 | [Semaphores and Monitors](lectures/lecture07.pdf) | [Chapter 30](http:/
 Feb 17 | [Synchronization exercises](lectures/lecture08.pdf) |  | 
 Feb 19 | [Deadlock](lectures/lecture09.pdf) | [Chapter 32](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) | 
 Feb 24 | [Virtual memory 1](lectures/lecture10.pdf) | [Chapter 15](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-mechanism.pdf), [Chapter 16](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-segmentation.pdf),<br>[Chapter 17](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf) | 
-Feb 26 | Slack day/exam review |  | 
+Feb 26 | Slack day/exam review |  | [A1](assign/assign01.html) due
 Mar 3 | **Exam 1**, in class |  | 
 Mar 5 | [Virtual memory in Pintos](lectures/pintos_vm.pdf) |  | 
 Mar 10 | [Virtual memory II](lectures/lecture11.pdf) | [Chapter 19](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-tlbs.pdf), [Chapter 20](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-smalltables.pdf) | 

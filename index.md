@@ -35,6 +35,8 @@ Gradescope.
 
 ## News
 
+* **Jan 31** — [Assignment 1](assign/assign01.html) is due Friday, Feb 26th
+  by 11 pm.
 * **Jan 27** — [Assignment 0](assign/assign00.html) has been updated with
   a link to a screencast video demonstrating how to get started on the
   assignment using your ugrad (or grad) account.
