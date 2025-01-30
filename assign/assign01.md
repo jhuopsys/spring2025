@@ -64,7 +64,7 @@ context switches when one thread needs to wait for another thread to do
 something.
 
 The mechanics of a context switch are in "`threads/switch.S`", which is
-80`x`86 assembly code. (You don\'t have to understand it.) It
+80x86 assembly code. (You don\'t have to understand it.) It
 saves the state of the currently running thread and restores the state
 of the thread we\'re switching to.
 
