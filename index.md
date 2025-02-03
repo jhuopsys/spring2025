@@ -35,7 +35,7 @@ Gradescope.
 
 ## News
 
-* **Jan 31** — [Assignment 1](assign/assign01.html) is due Friday, Feb 19th
+* **Feb 3** — [Assignment 1](assign/assign01.html) is due Wednesday, Feb 19th
   by 11 pm.
 * **Jan 27** — [Assignment 0](assign/assign00.html) has been updated with
   a link to a screencast video demonstrating how to get started on the
