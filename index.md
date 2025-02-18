@@ -35,6 +35,9 @@ Gradescope.
 
 ## News
 
+* **Feb 18** — [Assignment 2](assign/assign02.html) is posted. We highly
+  recommend aiming to complete it by Friday, March 14th (before the start
+  of Spring break.) The "hard" deadline is Monday, March 24th.
 * **Feb 3** — [Assignment 1](assign/assign01.html) is due Wednesday, Feb 19th
   by 11 pm.
 * **Jan 27** — [Assignment 0](assign/assign00.html) has been updated with

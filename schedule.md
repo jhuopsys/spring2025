@@ -42,9 +42,9 @@ Feb 26 | Slack day/exam review |  |
 Mar 3 | **Exam 1**, in class |  | 
 Mar 5 | [Virtual memory in Pintos](lectures/pintos_vm.pdf) |  | 
 Mar 10 | [Virtual memory II](lectures/lecture11.pdf) | [Chapter 19](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-tlbs.pdf), [Chapter 20](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-smalltables.pdf) | 
-Mar 12 | [Page replacement](lectures/lecture12.pdf) | [Chapter 21](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys.pdf), [Chapter 22](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf),<br>[Chapter 23](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-complete.pdf) | 
+Mar 12 | [Page replacement](lectures/lecture12.pdf) | [Chapter 21](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys.pdf), [Chapter 22](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf),<br>[Chapter 23](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-complete.pdf) | [A2](assign/assign02.html) soft deadline<br>Fri 3/14
 Mar 17–21 | **Spring break, no classes** |  | 
-Mar 24 | [Dynamic memory allocation](lectures/lecture13.pdf) | [Chapter 14](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-api.pdf), [Chapter 17](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-freespace.pdf) | 
+Mar 24 | [Dynamic memory allocation](lectures/lecture13.pdf) | [Chapter 14](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-api.pdf), [Chapter 17](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-freespace.pdf) | [A2](assign/assign02.html) hard deadline
 Mar 26 | [IO and disks](lectures/lecture14.pdf) | [Chapter 36](http://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf), [Chapter 37](http://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf) | 
 Mar 31 | [File systems](lectures/lecture15.pdf) | [Chapter 39](http://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf) | 
 Apr 2 | [File systems implementation](lectures/lecture16.pdf) | [Chapter 40](http://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf) | 
