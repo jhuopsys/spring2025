@@ -35,6 +35,10 @@ Gradescope.
 
 ## News
 
+* **Feb 23** — Exam 1 will take place in class on Monday, March 3rd.
+  The exam is closed book, no electronics. You may bring one sheet of
+  handwritten notes (writing on both sides is fine.) Review materials
+  are available on the [Resources](resources.html) page.
 * **Feb 18** — [Assignment 2](assign/assign02.html) is posted. We highly
   recommend aiming to complete it by Friday, March 14th (before the start
   of Spring break.) The "hard" deadline is Monday, March 24th.

@@ -24,6 +24,12 @@ about building the Bochs emulator from source.
 
 ## Review material
 
+### Previous Exams
+
+* [Exam 1, Spring 2024](resources/exam01-spring2024.pdf)
+
+### Written Homeworks
+
 The following homework assignments were prepared by
 [Prof. Huang](https://web.eecs.umich.edu/~ryanph/)
 for the [Fall 2022 offering of OS](https://www.cs.jhu.edu/~huang/cs318/fall22/).
