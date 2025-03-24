@@ -35,6 +35,8 @@ Gradescope.
 
 ## News
 
+* **Mar 24** — [Assignment 3a](assign/assign03a.html) is due Friday,
+  April 11th by 11 pm.
 * **Feb 23** — Exam 1 will take place in class on Monday, March 3rd.
   The exam is closed book, no electronics. You may bring one sheet of
   handwritten notes (writing on both sides is fine.) Review materials

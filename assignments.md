@@ -10,7 +10,7 @@ This page lists assignments and their due dates.
 
 **Individual** assignments must be completed individually.
 
-For **Group** assignments, you may work in a team with up to
+For **Team** assignments, you may work in a team with up to
 3 members, or do the assignment individually.
 If you work in a team with multiple members, it is expected
 that each member will contribute substantially. We reserve
@@ -44,3 +44,4 @@ Assignment | Type | Due
 [Assignment 0: Getting Real](assign/assign00.html) | **Individual** | Monday, Feb 3rd by 11 pm
 [Assignment 1: Threads](assign/assign01.html) | **Team** | Wednesday, Feb 19th by 11 pm
 [Assignment 2: User Programs](assign/assign02.html) | **Team** | Friday, Mar 14th ("soft" deadline)<br>Monday, Mar 24th ("hard" deadline)
+[Assignment 3a: Virtual Memory Part A](assign/assign03a.html) | **Team** | Friday, April 11th by 11 pm
