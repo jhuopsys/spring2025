@@ -35,6 +35,11 @@ Gradescope.
 
 ## News
 
+* **Mar 26** — Exam 2 will take place in class on Wednesday, April 9th.
+  The exam is closed book and no electronics, but you may bring one sheet
+  of *hand-written* notes. (Writing on both sides is fine.)
+  Review materials are available on the [Resources](resources.html) page.
+  Please bring review questions to class on Monday, April 7th.
 * **Mar 24** — [Assignment 3a](assign/assign03a.html) is due Friday,
   April 11th by 11 pm.
 * **Feb 23** — Exam 1 will take place in class on Monday, March 3rd.
