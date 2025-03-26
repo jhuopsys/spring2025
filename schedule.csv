@@ -20,7 +20,7 @@ Mar 26,"IO and disks",lectures/lecture14.pdf,,"[Chapter 36](http://pages.cs.wisc
 Mar 31,"File systems",lectures/lecture15.pdf,,"[Chapter 39](http://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)",
 Apr 2,"File systems implementation",lectures/lecture16.pdf,,"[Chapter 40](http://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf)"
 Apr 7,"Slack day/exam review",,,,
-Apr 9,"**Exam 2**, in class",
+Apr 9,"**Exam 2**, in class",,,,"[A3a](assign/assign03a.html) due<br>Fri 4/11"
 Apr 14,"Unix Fast File System",lectures/lecture17.pdf,,"[Chapter 41](http://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf), [FFS paper](https://dsf.berkeley.edu/cs262/FFS.pdf)",
 Apr 16,"Log structured filesystems",lectures/lecture18.pdf,,"[Chapter 43](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf), [LFS paper](https://dl.acm.org/doi/pdf/10.1145/146941.146943)"
 Apr 21,"fsck and journaling",lectures/lecture19.pdf,,"[Chapter 42](http://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf)"
