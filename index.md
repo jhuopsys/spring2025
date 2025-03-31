@@ -35,6 +35,8 @@ Gradescope.
 
 ## News
 
+* **Mar 31** — [Assignment 3b](assign/assign03b.html) is due by 11 pm on
+  Friday, April 25th. Note that at most 48 late hours may be used.
 * **Mar 26** — Exam 2 will take place in class on Wednesday, April 9th.
   The exam is closed book and no electronics, but you may bring one sheet
   of *hand-written* notes. (Writing on both sides is fine.)
