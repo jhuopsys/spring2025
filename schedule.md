@@ -55,4 +55,4 @@ Apr 16 | [Log structured filesystems](lectures/lecture18.pdf) | [Chapter 43](htt
 Apr 21 | [fsck and journaling](lectures/lecture19.pdf) | [Chapter 42](http://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf) | 
 Apr 23 | Virtual machines | [Appendix B](http://pages.cs.wisc.edu/~remzi/OSTEP/vmm-intro.pdf) | 
 Apr 28 | Slack day/exam review |  | 
-May 13 | **Exam 3**, At 2 pm, location TBD |  | 
+May 13 | **Exam 3**, At 2 pm, Krieger 170 |  | 
