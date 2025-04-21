@@ -35,6 +35,10 @@ Gradescope.
 
 ## News
 
+* **Apr 21** — Exam 3 will take place on Tuesday, May 13th at 2 pm in
+  Krieger 170. Review materials are available on the [Resources](resources.html)
+  page. A review session will be held in class on Monday, April 28th
+  (bring questions!)
 * **Mar 31** — [Assignment 3b](assign/assign03b.html) is due by 11 pm on
   Friday, April 25th. Note that at most 48 late hours may be used.
 * **Mar 26** — Exam 2 will take place in class on Wednesday, April 9th.
