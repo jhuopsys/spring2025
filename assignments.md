@@ -46,3 +46,4 @@ Assignment | Type | Due
 [Assignment 2: User Programs](assign/assign02.html) | **Team** | Friday, Mar 14th ("soft" deadline)<br>Monday, Mar 24th ("hard" deadline)
 [Assignment 3a: Virtual Memory Part A](assign/assign03a.html) | **Team** | Friday, April 11th by 11 pm
 [Assignment 3b: Virtual Memory Part B](assign/assign03b.html) | **Team** | Monday, April 28th by 11 pm (Note that at most 48 late hours may be used)
+[Assignment 4: File Systems](assign/assign04.html) | **Optional** | n/a

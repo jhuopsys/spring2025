@@ -35,6 +35,9 @@ Gradescope.
 
 ## News
 
+* **Apr 27** — The completely optional [Assignment 4](assign/assign04.html)
+  has been posted. It does not count as extra credit, and is intended
+  only as a learning opportunity.
 * **Apr 21** — Exam 3 will take place on Tuesday, May 13th at 2 pm in
   Krieger 170. Review materials are available on the [Resources](resources.html)
   page. A review session will be held in class on Monday, April 28th
