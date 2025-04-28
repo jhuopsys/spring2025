@@ -53,6 +53,6 @@ Apr 9 | **Exam 2**, in class |  | [A3a](assign/assign03a.html) due<br>Fri 4/11
 Apr 14 | [Unix Fast File System](lectures/lecture17.pdf) | [Chapter 41](http://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf), [FFS paper](https://dsf.berkeley.edu/cs262/FFS.pdf) | 
 Apr 16 | [Log structured filesystems](lectures/lecture18.pdf) | [Chapter 43](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf), [LFS paper](https://dl.acm.org/doi/pdf/10.1145/146941.146943) | 
 Apr 21 | [fsck and journaling](lectures/lecture19.pdf) | [Chapter 42](http://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf) | 
-Apr 23 | Virtual machines | [Appendix B](http://pages.cs.wisc.edu/~remzi/OSTEP/vmm-intro.pdf) | 
+Apr 23 | [Virtual machines](lectures/lecture20.pdf) | [Appendix B](http://pages.cs.wisc.edu/~remzi/OSTEP/vmm-intro.pdf) | 
 Apr 28 | Slack day/exam review |  | 
 May 13 | **Exam 3**, At 2 pm, Krieger 170 |  | 
